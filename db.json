@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Ibby MacTeggart",
+      "email": "imacteggart0@reference.com",
+      "ip_address": "19.148.70.99"
+    },
+    {
+      "id": 2,
+      "nome": "Noby Bladesmith",
+      "email": "nbladesmith1@mlb.com",
+      "ip_address": "161.128.11.94"
+    },
+    {
+      "id": 3,
+      "nome": "Ealasaid Sipson",
+      "email": "esipson2@flickr.com",
+      "ip_address": "6.173.55.226"
+    },
+    {
+      "id": 4,
+      "nome": "Elden Gauson",
+      "email": "egauson3@uol.com.br",
+      "ip_address": "215.34.180.105"
+    },
+    {
+      "id": 5,
+      "nome": "Laughton Rosiello",
+      "email": "lrosiello4@mapquest.com",
+      "ip_address": "168.22.22.161"
+    },
+    {
+      "id": 6,
+      "nome": "Hunt Dowbiggin",
+      "email": "hdowbiggin5@angelfire.com",
+      "ip_address": "43.239.36.185"
+    },
+    {
+      "id": 7,
+      "nome": "Steffane Della Scala",
+      "email": "sdella6@flickr.com",
+      "ip_address": "43.118.177.79"
+    },
+    {
+      "id": 8,
+      "nome": "Bram Tolmie",
+      "email": "btolmie7@lulu.com",
+      "ip_address": "166.174.15.159"
+    },
+    {
+      "id": 9,
+      "nome": "Alvie Varcoe",
+      "email": "avarcoe8@unc.edu",
+      "ip_address": "254.6.93.214"
+    },
+    {
+      "id": 10,
+      "nome": "Nickolaus Humblestone",
+      "email": "nhumblestone9@csmonitor.com",
+      "ip_address": "32.19.63.51"
+    }
+  ]
+}
